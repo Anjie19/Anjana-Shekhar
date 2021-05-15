@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anjana Shekhar
+- 👋 Hi, I’m Anjana Shekhar
 - 👀 I’m interested in Social Impact, Design Innovation, and Equity for all
 - 🌱 I’m currently learning to code on free code camp.
 - 💞️ I’m looking to collaborate on health equity and experience design projects.
