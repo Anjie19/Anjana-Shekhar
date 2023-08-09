@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anjana Shekhar
 - 👀 I’m interested in Social Impact, Design Innovation, and Equity for all
 - 🌱 I’m currently learning to code on free code camp.
-- 💞️ I’m looking to collaborate on health equity and experience design projects.
+- 💞️ I’m looking to collaborate on health, climate, education equity and experience design projects.
 - 📫 How to reach me: shekharanjana@gmail.com
 
 <!---
